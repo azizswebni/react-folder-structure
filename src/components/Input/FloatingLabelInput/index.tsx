@@ -1,0 +1,1 @@
+export { FloatingLabelInput as default } from './FloatingLabelInput'
